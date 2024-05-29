@@ -1,7 +1,7 @@
 
 # JobBoard Application
 
-This is a JobBoard application built with Laravel and VueJS. It allows job seekers to view job postings from both local sources and external sources. Job board moderators can approve or mark jobs as spam directly from email notifications.
+This is a JobBoard application built with Laravel. It allows job seekers to view job postings from both local sources and external sources. Job board moderators can approve or mark jobs as spam directly from email notifications.
 
 ## Features
 
